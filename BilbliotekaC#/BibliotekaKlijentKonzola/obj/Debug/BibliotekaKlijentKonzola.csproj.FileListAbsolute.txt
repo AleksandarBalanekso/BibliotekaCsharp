@@ -1,0 +1,10 @@
+C:\Users\aleks\OneDrive\Desktop\BilbliotekaC#\BibliotekaKlijentKonzola\bin\Debug\BibliotekaKlijentKonzola.exe.config
+C:\Users\aleks\OneDrive\Desktop\BilbliotekaC#\BibliotekaKlijentKonzola\bin\Debug\BibliotekaKlijentKonzola.exe
+C:\Users\aleks\OneDrive\Desktop\BilbliotekaC#\BibliotekaKlijentKonzola\bin\Debug\BibliotekaKlijentKonzola.pdb
+C:\Users\aleks\OneDrive\Desktop\BilbliotekaC#\BibliotekaKlijentKonzola\bin\Debug\Common.dll
+C:\Users\aleks\OneDrive\Desktop\BilbliotekaC#\BibliotekaKlijentKonzola\bin\Debug\Common.pdb
+C:\Users\aleks\OneDrive\Desktop\BilbliotekaC#\BibliotekaKlijentKonzola\obj\Debug\BibliotekaKlijentKonzola.csproj.AssemblyReference.cache
+C:\Users\aleks\OneDrive\Desktop\BilbliotekaC#\BibliotekaKlijentKonzola\obj\Debug\BibliotekaKlijentKonzola.csproj.CoreCompileInputs.cache
+C:\Users\aleks\OneDrive\Desktop\BilbliotekaC#\BibliotekaKlijentKonzola\obj\Debug\BibliotekaKlijentKonzola.csproj.CopyComplete
+C:\Users\aleks\OneDrive\Desktop\BilbliotekaC#\BibliotekaKlijentKonzola\obj\Debug\BibliotekaKlijentKonzola.exe
+C:\Users\aleks\OneDrive\Desktop\BilbliotekaC#\BibliotekaKlijentKonzola\obj\Debug\BibliotekaKlijentKonzola.pdb

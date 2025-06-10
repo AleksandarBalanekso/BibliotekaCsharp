@@ -1,0 +1,6 @@
+C:\Users\aleks\OneDrive\Desktop\BilbliotekaC#\Common\bin\Debug\Common.dll
+C:\Users\aleks\OneDrive\Desktop\BilbliotekaC#\Common\bin\Debug\Common.pdb
+C:\Users\aleks\OneDrive\Desktop\BilbliotekaC#\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\aleks\OneDrive\Desktop\BilbliotekaC#\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\aleks\OneDrive\Desktop\BilbliotekaC#\Common\obj\Debug\Common.dll
+C:\Users\aleks\OneDrive\Desktop\BilbliotekaC#\Common\obj\Debug\Common.pdb

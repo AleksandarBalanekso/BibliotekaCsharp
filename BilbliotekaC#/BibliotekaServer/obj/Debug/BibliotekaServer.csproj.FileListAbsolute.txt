@@ -1,0 +1,10 @@
+C:\Users\aleks\OneDrive\Desktop\BilbliotekaC#\BibliotekaServer\bin\Debug\BibliotekaServer.exe.config
+C:\Users\aleks\OneDrive\Desktop\BilbliotekaC#\BibliotekaServer\bin\Debug\BibliotekaServer.exe
+C:\Users\aleks\OneDrive\Desktop\BilbliotekaC#\BibliotekaServer\bin\Debug\BibliotekaServer.pdb
+C:\Users\aleks\OneDrive\Desktop\BilbliotekaC#\BibliotekaServer\bin\Debug\Common.dll
+C:\Users\aleks\OneDrive\Desktop\BilbliotekaC#\BibliotekaServer\bin\Debug\Common.pdb
+C:\Users\aleks\OneDrive\Desktop\BilbliotekaC#\BibliotekaServer\obj\Debug\BibliotekaServer.csproj.AssemblyReference.cache
+C:\Users\aleks\OneDrive\Desktop\BilbliotekaC#\BibliotekaServer\obj\Debug\BibliotekaServer.csproj.CoreCompileInputs.cache
+C:\Users\aleks\OneDrive\Desktop\BilbliotekaC#\BibliotekaServer\obj\Debug\BibliotekaServer.csproj.CopyComplete
+C:\Users\aleks\OneDrive\Desktop\BilbliotekaC#\BibliotekaServer\obj\Debug\BibliotekaServer.exe
+C:\Users\aleks\OneDrive\Desktop\BilbliotekaC#\BibliotekaServer\obj\Debug\BibliotekaServer.pdb
